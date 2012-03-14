@@ -5,9 +5,6 @@
 		Téléchargement de contenu
 	Gestion de médiathèque
 		Génération de post de forum avec l'ensemble des contenus disponibles sur ses disques locaux
-	VPN
-		Client torrent
-	Proxy
 	Mail
 		Adresse
 		Boîte mail
