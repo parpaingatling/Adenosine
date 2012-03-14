@@ -19,8 +19,6 @@ Liste des blocs à détailler
 	Page de recherche/DL
 	FTP d’upload
 	Forum
-	VPN
-	Proxy
 	Serveur mail
 	Nom de domaine
 	VoIP
